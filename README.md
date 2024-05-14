@@ -6,9 +6,9 @@ Live Demo - https://codelikeamachine.github.io/Day1-50-My-Portfolio-Website/
 
 # Join me
 
-GitHub-https://github.com/Codelikeamachine
+Linkedin - http://www.linkedin.com/in/armaansaraswat
 
-GitHub: https://github.com/Codelikeamachine
+GitHub - https://github.com/Codelikeamachine
 
 Instagram - https://www.instagram.com/saraswat_armaan
 
